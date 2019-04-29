@@ -2,8 +2,8 @@ PATH
   remote: .
   specs:
     sfmc-fuelsdk-ruby (1.1.0)
-      json (~> 1.8, >= 1.8.1)
-      jwt (~> 1.0, >= 1.0.0)
+      json (>= 1.8.1)
+      jwt (>= 1.0.0)
       savon (= 2.2.0)
 
 GEM
